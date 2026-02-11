@@ -36403,7 +36403,7 @@
       }
     }
   },
-  "generated_at": "2026-02-11T10:17:20.638802+00:00",
+  "generated_at": "2026-02-11T10:22:15.486371+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "GymCardio": {
@@ -36440,8 +36440,8 @@
     "Swim"
   ],
   "units": {
-    "distance": "mi",
-    "elevation": "ft"
+    "distance": "km",
+    "elevation": "m"
   },
   "years": [
     2011,
