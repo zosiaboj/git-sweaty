@@ -20341,6 +20341,13 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-03-04",
+      "hour": 18,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -36506,6 +36513,15 @@
           "distance": 167772.0,
           "elevation_gain": 2649.0,
           "moving_time": 34708.0
+        },
+        "2026-03-04": {
+          "activity_ids": [
+            17605172431
+          ],
+          "count": 1,
+          "distance": 32336.1,
+          "elevation_gain": 172.0,
+          "moving_time": 5999.0
         }
       },
       "WeightTraining": {
@@ -36611,7 +36627,7 @@
       }
     }
   },
-  "generated_at": "2026-03-04T15:11:12.577351+00:00",
+  "generated_at": "2026-03-05T15:15:18.531859+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "GymCardio": {
