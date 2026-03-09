@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T15:03:18.766174+00:00",
+  "generated_at": "2026-03-09T15:17:46.782247+00:00",
   "years": {
     "2011": {
       "Ride": {
@@ -15872,6 +15872,17 @@
       }
     },
     "2026": {
+      "GymCardio": {
+        "2026-03-08": {
+          "activity_ids": [
+            17654575472
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 768.0
+        }
+      },
       "Ride": {
         "2026-01-02": {
           "activity_ids": [
@@ -16184,12 +16195,14 @@
         },
         "2026-03-08": {
           "activity_ids": [
-            17643754267
+            17643754267,
+            17652604385,
+            17653044909
           ],
-          "count": 1,
-          "distance": 1428.5,
-          "elevation_gain": 15.0,
-          "moving_time": 301.0
+          "count": 3,
+          "distance": 135013.3,
+          "elevation_gain": 1445.0,
+          "moving_time": 26001.0
         }
       },
       "WeightTraining": {

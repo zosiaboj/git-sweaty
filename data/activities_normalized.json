@@ -31997,5 +31997,38 @@
     "start_date_local": "2026-03-08T07:21:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 132110.0,
+    "elevation_gain": 1419.0,
+    "id": 17652604385,
+    "moving_time": 25339.0,
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-08T08:42:03Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 1474.8,
+    "elevation_gain": 11.0,
+    "id": 17653044909,
+    "moving_time": 361.0,
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-08T19:12:03Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 17654575472,
+    "moving_time": 768.0,
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-08T22:31:01Z",
+    "type": "GymCardio",
+    "year": 2026
   }
 ]
