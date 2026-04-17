@@ -32261,5 +32261,27 @@
     "start_date_local": "2026-04-15T17:21:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 44554.4,
+    "elevation_gain": 241.0,
+    "id": 18136494693,
+    "moving_time": 6986.0,
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-16T17:59:26Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": 18141656053,
+    "moving_time": 1095.0,
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-17T08:32:12Z",
+    "type": "GymCardio",
+    "year": 2026
   }
 ]
