@@ -32283,5 +32283,16 @@
     "start_date_local": "2026-04-17T08:32:12Z",
     "type": "GymCardio",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 29680.8,
+    "elevation_gain": 220.0,
+    "id": 18149058944,
+    "moving_time": 5569.0,
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-17T18:45:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
