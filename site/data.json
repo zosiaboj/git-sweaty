@@ -21118,6 +21118,20 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-08-07",
+      "hour": 21,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 14,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -38076,12 +38090,22 @@
         },
         "2026-08-07": {
           "activity_ids": [
-            19637178695
+            19637178695,
+            19668290647
+          ],
+          "count": 2,
+          "distance": 325867.4,
+          "elevation_gain": 4321.0,
+          "moving_time": 64744.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            19668401609
           ],
           "count": 1,
-          "distance": 4846.4,
-          "elevation_gain": 71.0,
-          "moving_time": 1047.0
+          "distance": 1928.0,
+          "elevation_gain": 14.0,
+          "moving_time": 478.0
         }
       },
       "WeightTraining": {
@@ -38277,7 +38301,7 @@
       }
     }
   },
-  "generated_at": "2026-08-08T15:18:37.715146+00:00",
+  "generated_at": "2026-08-09T15:20:23.588594+00:00",
   "other_bucket": "OtherSports",
   "type_meta": {
     "GymCardio": {
